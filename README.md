@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# tok
+# tok <a href='https://torch.mlverse.org'><img src='man/figures/tok.png' align="right" height="139" /></a>
 
 <!-- badges: start -->
 
@@ -10,6 +10,7 @@ status](https://github.com/mlverse/tok/workflows/R-CMD-check/badge.svg)](https:/
 [![CRAN
 status](https://www.r-pkg.org/badges/version/tok)](https://CRAN.R-project.org/package=tok)
 [![](https://cranlogs.r-pkg.org/badges/tok)](https://cran.r-project.org/package=tok)
+
 <!-- badges: end -->
 
 tok provides bindings to the
